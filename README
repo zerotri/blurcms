@@ -1,0 +1,15 @@
+blurCMS
+=======
+
+BlurCMS is meant to take a folder of input files, parse them, and output them in a simple, blog-like format. Its goals are simplicity, usability, and monochromacity (I might have made that last one up).
+
+It was created as a side project and has been used by the original author for notes :)
+
+It's flexible enough to handle any simple site, within reason. Tumblr clone? Sure.
+
+Don't like LESS? Don't like Markdown? Don't like PHP? *FORK IT!*
+
+Credits
+-------
+
+Most code blame goes to [zerotri](http://github.com/zerotri/blurcms/) with some to [blacRose](http://github.com/blacRose/blurcms).
