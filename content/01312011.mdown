@@ -1,0 +1,47 @@
+# Monday 31 January 2011
+
+---------------------------------
+
+#### Objectives:
+
+
+#### HW/EX # 1 - due 1 week from today
+Virgo/local supercluster
+
++ 100 groups/clusters
++ 110 million lightyears across
+
+closest star system: alpha-centauri
+
++ 
+
+closest supercluster: hydra-centaurus supercluster
+
++ 150 million lightyears away
+  
+  
+  
+  
+#### Distances
+We need new units for large distances
+
+*	light second (speed of light)  
+	186,000 mi/sec or 300,000 km/sec  
+	The distance that light travels in one second  
+*	light year = 6 trillion mi, 6x10^12 mi
+_____
+
+  
+|	Path					|	Distance (mi)			|	Distance (light units)						|	ETA at 100mi/hr	|
+| ------------------------- | ------------------------- | --------------------------------------------- | ----------------- |
+|	Earth -> Moon			|	240,000 mi (2.4x10^5)	|	1.3 light seconds							|	3 months		|
+|	Earth -> Venus			|	25 million mi			|	130 light seconds							|	25 years		|
+|	Earth -> Sun			|	93 million mi (1 au)	|	8 light minutes								|	100 years		|
+|	Earth -> Pluto			|	4 billion mi			|	320 light minutes							|	4000 years		|
+|	Earth -> Alpha Centauri	|							|	4.3 light years								|					|
+|	Milky Way Galaxy		|							|	100,000 light years							|					|
+|	Canus Major Dwarf		|							|	25,000 light years from the Solar System	|					|
+|	Sagittarius Dwarf		|							|	70,000 light years from the Solar System	|					|
+|	Andromeda Dwarf			|							|	2.2 million light years						|					|
+|	The Local Group			|							|	3 million light years in diameter			|					|
+|	The Local Supercluster	|							|	110 million light years in diameter			|					|

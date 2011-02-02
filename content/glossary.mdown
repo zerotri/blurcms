@@ -1,0 +1,7 @@
+# Glossary
+
+_____
+
+*	Astronomical Unit - The length of the average distance from the earth to the sun. Approximately 93 million miles.
+*	Light year - The unit of measurement used to determine the distance light travels in a year.
+	Approximately equal to 6x10^12 miles.
