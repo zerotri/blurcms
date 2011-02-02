@@ -58,12 +58,14 @@ function less_php($less){
 	}
 }
 
-if ($_GET):
-  $args = array();
-  foreach ($_GET as $key => $value):
-    array_push($args, $key);
-  endforeach;
-  Header("Content-type: text/css");
-  less_php($args[0]);
-endif;
+if ($_GET)
+{
+	$args = array();
+	foreach ($_GET as $key => $value)
+	{
+		array_push($args, $key);
+	}
+	Header("Content-type: text/css");
+	less_php($args[0]);
+}
 ?>
